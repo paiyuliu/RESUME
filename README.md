@@ -4,8 +4,8 @@
 
 **姓名：** 劉柏余  
 **生日：** 1983/08/08  
-**電子郵件：** paiyuliu@gmail.com
-**GitHub：** https://paiyuliu.github.io/RESUME/
+**電子郵件：** paiyuliu@gmail.com  
+**GitHub：** https://paiyuliu.github.io/RESUME/  
 **興趣：** 游泳、羽球、合氣道、寫程式、跑模型
 
 ---
